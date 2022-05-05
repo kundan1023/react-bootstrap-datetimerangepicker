@@ -1,0 +1,22 @@
+{
+  "name": "new-react-bootstrap-datepicker",
+  "version": "1.0.0",
+  "description": "new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "new-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kundan1023/react-bootstrap-datetimerangepicker.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "kundan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kundan1023/react-bootstrap-datetimerangepicker/issues"
+  },
+  "homepage": "https://github.com/kundan1023/react-bootstrap-datetimerangepicker#readme"
+}
