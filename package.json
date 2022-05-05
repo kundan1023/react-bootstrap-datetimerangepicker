@@ -1,6 +1,6 @@
 {
-  "name": "react-bootstrap-datetimerangepicker",
-  "version": "2.0.6",
+  "name": "new-bootstrap-datetimerangepicker",
+  "version": "1.0.1",
   "description": "React date & time range picker component base on bootstrap-daterangepicker. This date range picker component for Bootstrap creates a dropdown menu from which a user can select a range of dates. Features include limiting the selectable date range, localizable strings and date formats, a single date picker mode, optional time picker",
   "main": "lib/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "license": "ISC",
   "peerDependencies": {
-    "jquery": ">=1.11.3",
+    "jquery": ">=3.6.0",
     "react": ">=0.14.0",
     "bootstrap-daterangepicker": "^2.1.19"
   },
